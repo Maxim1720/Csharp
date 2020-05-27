@@ -1,0 +1,17 @@
+/home/max17/Рабочий стол/developing/C#/Laba6/laba6/laba6/bin/Debug/laba6.exe
+/home/max17/Рабочий стол/developing/C#/Laba6/laba6/laba6/bin/Debug/laba6.pdb
+/home/max17/Рабочий стол/developing/C#/Laba6/laba6/laba6/obj/x86/Debug/laba6.csprojAssemblyReference.cache
+/home/max17/Рабочий стол/developing/C#/Laba6/laba6/laba6/obj/x86/Debug/laba6.exe
+/home/max17/Рабочий стол/developing/C#/Laba6/laba6/laba6/obj/x86/Debug/laba6.pdb
+C:\Users\musie\Desktop\C#\Laba6\laba6\laba6\obj\x86\Debug\laba6.csprojAssemblyReference.cache
+C:\Users\musie\Desktop\C#\Laba6\laba6\laba6\obj\x86\Debug\laba6.exe
+C:\Users\musie\Desktop\C#\Laba6\laba6\laba6\obj\x86\Debug\laba6.pdb
+C:\Users\musie\Desktop\C#\Laba6\laba6\laba6\bin\Debug\laba6.exe.config
+C:\Users\musie\Desktop\C#\Laba6\laba6\laba6\bin\Debug\laba6.exe
+C:\Users\musie\Desktop\C#\Laba6\laba6\laba6\bin\Debug\laba6.pdb
+C:\Users\musie\Desktop\University\C#\Laba6\laba6\laba6\bin\Debug\laba6.exe.config
+C:\Users\musie\Desktop\University\C#\Laba6\laba6\laba6\bin\Debug\laba6.exe
+C:\Users\musie\Desktop\University\C#\Laba6\laba6\laba6\bin\Debug\laba6.pdb
+C:\Users\musie\Desktop\University\C#\Laba6\laba6\laba6\obj\x86\Debug\laba6.csprojAssemblyReference.cache
+C:\Users\musie\Desktop\University\C#\Laba6\laba6\laba6\obj\x86\Debug\laba6.exe
+C:\Users\musie\Desktop\University\C#\Laba6\laba6\laba6\obj\x86\Debug\laba6.pdb

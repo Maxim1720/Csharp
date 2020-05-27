@@ -1,0 +1,8 @@
+7
+Kiselev Dmitriy 4 5 4
+Lepold Roman 4 3 3
+Kolyhalkin Boris 4 5 5
+Zhukov Bogdan 4 4 4
+Kotova Olesya 5 4 5
+Musiev Maksim 5 5 4
+Sergeychev Vladislav 2 3 5
