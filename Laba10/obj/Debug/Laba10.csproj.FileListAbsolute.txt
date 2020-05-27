@@ -1,0 +1,13 @@
+C:\Users\musie\Desktop\University\C#\Laba10\bin\Debug\Laba10.exe.config
+C:\Users\musie\Desktop\University\C#\Laba10\bin\Debug\Laba10.exe
+C:\Users\musie\Desktop\University\C#\Laba10\bin\Debug\Laba10.pdb
+C:\Users\musie\Desktop\University\C#\Laba10\obj\Debug\Laba10.csprojAssemblyReference.cache
+C:\Users\musie\Desktop\University\C#\Laba10\obj\Debug\Laba10.FirstTask.Level1_FirstTask.resources
+C:\Users\musie\Desktop\University\C#\Laba10\obj\Debug\Laba10.Properties.Resources.resources
+C:\Users\musie\Desktop\University\C#\Laba10\obj\Debug\Laba10.csproj.GenerateResource.cache
+C:\Users\musie\Desktop\University\C#\Laba10\obj\Debug\Laba10.csproj.CoreCompileInputs.cache
+C:\Users\musie\Desktop\University\C#\Laba10\obj\Debug\Laba10.exe
+C:\Users\musie\Desktop\University\C#\Laba10\obj\Debug\Laba10.pdb
+C:\Users\musie\Desktop\University\C#\Laba10\obj\Debug\Laba10.null_LevelForm.resources
+C:\Users\musie\Desktop\University\C#\Laba10\obj\Debug\Laba10.SecondTask.Level1_SecondForm.resources
+C:\Users\musie\Desktop\University\C#\Laba10\obj\Debug\Laba10.ThirdTask.Level1_ThirdTaskForm.resources

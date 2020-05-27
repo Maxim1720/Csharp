@@ -1,0 +1,14 @@
+C:\Users\musie\Desktop\University\C#\Laba8\Laba8\bin\Debug\Laba8.exe.config
+C:\Users\musie\Desktop\University\C#\Laba8\Laba8\bin\Debug\Laba8.exe
+C:\Users\musie\Desktop\University\C#\Laba8\Laba8\bin\Debug\Laba8.pdb
+C:\Users\musie\Desktop\University\C#\Laba8\Laba8\obj\Debug\Laba8.csprojAssemblyReference.cache
+C:\Users\musie\Desktop\University\C#\Laba8\Laba8\obj\Debug\Laba8.Properties.Resources.resources
+C:\Users\musie\Desktop\University\C#\Laba8\Laba8\obj\Debug\Laba8.csproj.GenerateResource.cache
+C:\Users\musie\Desktop\University\C#\Laba8\Laba8\obj\Debug\Laba8.csproj.CoreCompileInputs.cache
+C:\Users\musie\Desktop\University\C#\Laba8\Laba8\obj\Debug\Laba8.exe
+C:\Users\musie\Desktop\University\C#\Laba8\Laba8\obj\Debug\Laba8.pdb
+C:\Users\musie\Desktop\University\C#\Laba8\Laba8\obj\Debug\Laba8.First_Form.resources
+C:\Users\musie\Desktop\University\C#\Laba8\Laba8\obj\Debug\Laba8.MainMenu_Form.resources
+C:\Users\musie\Desktop\University\C#\Laba8\Laba8\obj\Debug\Laba8.Second_Form.resources
+C:\Users\musie\Desktop\University\C#\Laba8\Laba8\obj\Debug\Laba8.Forms.NotSearch_FormDialog.resources
+C:\Users\musie\Desktop\University\C#\Laba8\Laba8\obj\Debug\Laba8.Forms.ThirdTask.Third_Form.resources

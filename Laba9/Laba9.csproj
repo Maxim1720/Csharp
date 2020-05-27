@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{00C18A33-67C8-4CB0-9FB5-9F440DFEA51F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Laba9</RootNamespace>
+    <AssemblyName>Laba9</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Library">
+      <HintPath>Library\bin\Debug\Library.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FirstTask_Folder\Classes\Unit.cs" />
+    <Compile Include="FirstTask_Folder\Forms_Folder\FirstTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstTask_Folder\Forms_Folder\FirstTask.Designer.cs">
+      <DependentUpon>FirstTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FourthTask_Folder\Forms_Folder\FourthTask_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FourthTask_Folder\Forms_Folder\FourthTask_Form.Designer.cs">
+      <DependentUpon>FourthTask_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu_Form.Designer.cs">
+      <DependentUpon>MainMenu_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SecondTask_Folder\Forms_Folder\TableOfParking_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SecondTask_Folder\Forms_Folder\TableOfParking_Form.Designer.cs">
+      <DependentUpon>TableOfParking_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThirdTask_Folder\Forms_Folder\Interfaces_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThirdTask_Folder\Forms_Folder\Interfaces_Form.Designer.cs">
+      <DependentUpon>Interfaces_Form.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FirstTask_Folder\Forms_Folder\FirstTask.resx">
+      <DependentUpon>FirstTask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FourthTask_Folder\Forms_Folder\FourthTask_Form.resx">
+      <DependentUpon>FourthTask_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu_Form.resx">
+      <DependentUpon>MainMenu_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="SecondTask_Folder\Forms_Folder\TableOfParking_Form.resx">
+      <DependentUpon>TableOfParking_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThirdTask_Folder\Forms_Folder\Interfaces_Form.resx">
+      <DependentUpon>Interfaces_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
